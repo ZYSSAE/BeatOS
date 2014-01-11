@@ -1,0 +1,8 @@
+h
+si 1
+speed auto
+exec device=STM32F103ZE
+loadbin BeatOS-STM32.bin 0x08000000
+r
+g
+qc

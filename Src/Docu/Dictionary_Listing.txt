@@ -1,0 +1,28 @@
+BeatOS的文件夹结构
+
+	Src:
+		存放BeatOS源码
+			Docu:
+				BeatOS的文档
+			Drivers:
+				BeatOS标准驱动程序
+			Include:
+				BeatOS的包含文件
+				在进行跨平台移植时向编译器指定的包含路径
+				其他包含路径：IO/Config/;编译所需要的库文件
+			IO:
+				与硬件IO相关的文件，在移植时通常需要手工修改
+				Config:
+					BeatOS的配置文件
+			Kernel:
+				BeatOS的核心组件
+			Lib:
+				与硬件有关的第三方库文件
+			LinkScript:
+				与相应硬件对应的连接文件
+			Modules:
+				BeatOS扩展库文件;与硬件无关的第三方库文件
+	Debug:
+		存放调试生成的临时文件
+	Release:
+		存放正式生成的临时文件
