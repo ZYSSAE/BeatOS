@@ -1,7 +1,7 @@
 /*
  * BeatOS_PublicInclude.h
  *
- * INUTE 2013
+ * INUTE 2014
  *
  * Publicly Included Headers
  */
@@ -13,6 +13,8 @@
 #include "BeatOS_ChipSupport.h"
 
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include "BeatOS_Typedef.h"
 
 #endif /* BEATOS_PUBLICINCLUDE_H_ */

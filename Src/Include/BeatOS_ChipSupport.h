@@ -1,7 +1,7 @@
 /*
  * BeatOS_ChipSupport.h
  *
- * INUTE 2013
+ * INUTE 2014
  *
  * Chip Support File Of BeatOS
  */

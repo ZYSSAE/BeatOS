@@ -20,5 +20,6 @@ Src/User \
 Src/Lib/StdPeriph/Src \
 Src/Lib/Debug/Src \
 Src/Lib/CMSIS/Src \
+Src/Kernel/BeatFS \
 Src \
 

@@ -12,6 +12,7 @@ RM := rm -rf
 -include Src/Lib/StdPeriph/Src/subdir.mk
 -include Src/Lib/Debug/Src/subdir.mk
 -include Src/Lib/CMSIS/Src/subdir.mk
+-include Src/Kernel/BeatFS/subdir.mk
 -include Src/subdir.mk
 -include subdir.mk
 -include objects.mk

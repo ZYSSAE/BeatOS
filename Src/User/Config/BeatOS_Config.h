@@ -1,7 +1,7 @@
 /*
  * BeatOS_Config.h
  *
- * INUTE 2013
+ * INUTE 2014
  *
  * The Basic Configuration of BeatOS
  */
